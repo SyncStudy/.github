@@ -16,6 +16,8 @@ Quantum Oracles aims to revolutionize the landscape of quantum computing by dece
 
 - **Payment in Cryptocurrency**: Integrated cryptocurrency payments for seamless user experience.
 
+- **Smart contract logic based on quantum results**: Smart contracts can execute logic on-chain based on the results of the quantum programs that are stored on-chain through us. 
+
 
 ## Tech Stack
 
@@ -25,7 +27,7 @@ Quantum Oracles aims to revolutionize the landscape of quantum computing by dece
   
 - **Google Cloud**: For deploying quantum API and API3 Airnode.
   
-- **API3**: For the price feed for calculating the code in different cryptocurrencies for running the quantum computation.
+- **API3**: For deploying an Airnode to call our quantum API and using the dAPI price feed for calculating the cost in cryptocurrency for running the quantum computation (implementation in the `QuantumOracleV2` smart contract)
 
 ## Smart Contract: QuantumOracleV1
 
@@ -53,9 +55,9 @@ yarn start
 
 ## Usage
 
-- **Submit Circuit**: Users can submit a new quantum circuit, which is then sent to the oracles and then they send the circuits to quantum computers for execution. 
+- **Submit Circuit**: Users can submit a new quantum circuit, which is sent to the oracles. The oracles then send the circuits to quantum computers for execution. 
 
-- **Fetch Results**: Once executed, the results are stored on-chain and can be fetched by users and also they can be used by other smart contracts for conditional execution of logic.
+- **Fetch Results**: Once executed, the results are stored on-chain and can be fetched by users and they can also be used by other smart contracts for conditional execution of logic.
 
 ## Demo Images
 
@@ -68,7 +70,6 @@ yarn start
 ![Image 4](/assets/Screenshot%202023-10-29%20at%205.26.38%20AM.png)
 
 ![Image 5](/assets/Screenshot%202023-10-29%20at%205.26.52%20AM.png)
-
 
 ## Contributing
 
