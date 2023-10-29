@@ -1,6 +1,6 @@
 # Quantum Oracles: Decentralized Quantum Computing on Blockchain
 
-![Quantum Oracles](/assets/Quantum%Oracle.004.jpeg)
+![Quantum Oracles](/assets/Quantum%20Oracle.004.jpeg)
 
 ## Overview
 
@@ -27,7 +27,7 @@ Quantum Oracles aims to revolutionize the landscape of quantum computing by dece
   
 - **API3**: For deploying an Airnode to call our quantum API and using the dAPI price feed for calculating the cost in cryptocurrency for running the quantum computation (implementation in the `QuantumOracleV2` smart contract)
 
-![Tech Stack](/assets/Quantum%Oracle.007.jpeg)
+![Tech Stack](/assets/Quantum%20Oracle.007.jpeg)
 
 ## Smart Contract: QuantumOracleV1
 
