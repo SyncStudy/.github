@@ -41,6 +41,14 @@ The heart of the project lies in the `QuantumOracleV1` smart contract, which is 
 
 [Architecture and Data Flow Diagram](https://miro.com/app/board/uXjVNVN3tMU=/?share_link_id=58900692180)
 
+## Presentation
+
+[Presentation](https://drive.google.com/file/d/1TNPmTxgxp392AZsWf6IUssMvUizbcmGl/view?usp=sharing)
+
+## Demo Video
+
+[Demo Video](https://drive.google.com/file/d/1kaiuzncWzJxwNzYfSOGtO6jRF5CNbnlT/view?usp=sharing)
+
 ## Installation
 
 ### Dependencies
@@ -66,14 +74,6 @@ yarn start
 - **Submit Circuit**: Users can submit a new quantum circuit, which is sent to the oracles. The oracles then send the circuits to quantum computers for execution. 
 
 - **Fetch Results**: Once executed, the results are stored on-chain and can be fetched by users and they can also be used by other smart contracts for conditional execution of logic.
-
-## Presentation
-
-[Presentation](https://drive.google.com/file/d/1TNPmTxgxp392AZsWf6IUssMvUizbcmGl/view?usp=sharing)
-
-## Demo Video
-
-[Demo Video](https://drive.google.com/file/d/1kaiuzncWzJxwNzYfSOGtO6jRF5CNbnlT/view?usp=sharing)
 
 ## Demo Images
 
