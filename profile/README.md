@@ -35,6 +35,8 @@ The heart of the project lies in the `QuantumOracleV1` smart contract, which is 
 
 ## Architecture
 
+![Flow](/assets/Quantum%20Oracle.005.jpeg)
+
 ![Architecture](/assets/Screenshot%202023-10-29%20at%205.29.31%20AM.png)
 
 [Architecture and Data Flow Diagram](https://miro.com/app/board/uXjVNVN3tMU=/?share_link_id=58900692180)
