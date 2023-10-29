@@ -71,6 +71,10 @@ yarn start
 
 ![Image 5](/assets/Screenshot%202023-10-29%20at%205.26.52%20AM.png)
 
+## Presentation
+
+[Presentation](https://drive.google.com/file/d/1TNPmTxgxp392AZsWf6IUssMvUizbcmGl/view?usp=sharing)
+
 ## Contributing
 
 We welcome contributions from the community.
