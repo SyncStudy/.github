@@ -93,6 +93,12 @@ yarn start
 
 ![Image 5](/assets/Screenshot%202023-10-29%20at%205.26.52%20AM.png)
 
+![Image 6](/assets/Screenshot&202023-10-29%20at%2011.57.25.png)
+
+![Image 7](/assets/Screenshot&202023-10-29%20at%2011.57.37.png)
+
+![Image 8](/assets/Screenshot&202023-10-29%20at%2011.58.07.png)
+
 ## Contributing
 
 We welcome contributions from the community.
