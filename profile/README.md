@@ -2,6 +2,8 @@
 
 ![Architecture](./assets/Screenshot%202023-10-29%20at%205.29.31%20AM.png)
 
+[Architecture and Data Flow Diagram](https://miro.com/app/board/uXjVNVN3tMU=/?share_link_id=58900692180)
+
 ## Overview
 
 Quantum Oracles aims to revolutionize the landscape of quantum computing by decentralizing quantum computations and reducing the trust needed for executing quantum programs. Our project allows smart contracts to execute quantum programs, stores the results on-chain, and aggregates the results from multiple quantum computers. Users can pay for their quantum jobs using cryptocurrency, effectively creating an end-to-end decentralized ecosystem for quantum computing.
