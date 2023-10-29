@@ -27,7 +27,7 @@ Quantum Oracles aims to revolutionize the landscape of quantum computing by dece
   
 - **API3**: For deploying an Airnode to call our quantum API and using the dAPI price feed for calculating the cost in cryptocurrency for running the quantum computation (implementation in the `QuantumOracleV2` smart contract). Watch the API3 demo video here: https://bit.ly/quantum-oracles-video-api3
 
-- **Flock**: For generating a chatbot that the user can use to ask AI to generate a quantum program to solve a particular problem and that quantum circuit will be executed through our platform
+- **Flock**: For generating a chatbot that the user can use to ask AI to generate a quantum program to solve a particular problem and that quantum circuit will be executed through our platform. See Chatbot demo video here: https://www.youtube.com/watch?v=mhvEDvF2WU0
 
 ![Tech Stack](/assets/Quantum%20Oracle.007.jpeg)
 
@@ -52,6 +52,8 @@ The heart of the project lies in the `QuantumOracleV1` smart contract, which is 
 [Overview Demo Video](https://drive.google.com/file/d/1kaiuzncWzJxwNzYfSOGtO6jRF5CNbnlT/view?usp=sharing)
 
 [API3 Demo Video](https://bit.ly/quantum-oracles-video-api3)
+
+[Chatbot Demo Video](https://www.youtube.com/watch?v=mhvEDvF2WU0)
 
 ## Installation
 
