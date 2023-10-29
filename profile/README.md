@@ -1,6 +1,6 @@
 # Quantum Oracles: Decentralized Quantum Computing on Blockchain
 
-![Architecture](./assets/Screenshot%202023-10-29%20at%205.29.31%20AM.png)
+![Architecture](/assets/Screenshot%202023-10-29%20at%205.29.31%20AM.png)
 
 [Architecture and Data Flow Diagram](https://miro.com/app/board/uXjVNVN3tMU=/?share_link_id=58900692180)
 
@@ -59,15 +59,15 @@ yarn start
 
 ## Demo Images
 
-![Image 1](./assets/Screenshot%202023-10-29%20at%205.26.04%20AM.png)
+![Image 1](/assets/Screenshot%202023-10-29%20at%205.26.04%20AM.png)
 
-![Image 2](./assets/Screenshot%202023-10-29%20at%205.26.14%20AM.png)
+![Image 2](/assets/Screenshot%202023-10-29%20at%205.26.14%20AM.png)
 
-![Image 3](./assets/Screenshot%202023-10-29%20at%205.26.29%20AM.png)
+![Image 3](/assets/Screenshot%202023-10-29%20at%205.26.29%20AM.png)
 
-![Image 4](./assets/Screenshot%202023-10-29%20at%205.26.38%20AM.png)
+![Image 4](/assets/Screenshot%202023-10-29%20at%205.26.38%20AM.png)
 
-![Image 5](./assets/Screenshot%202023-10-29%20at%205.26.52%20AM.png)
+![Image 5](/assets/Screenshot%202023-10-29%20at%205.26.52%20AM.png)
 
 
 ## Contributing
