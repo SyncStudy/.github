@@ -1,5 +1,7 @@
 # Quantum Oracles: Decentralized Quantum Computing on Blockchain
 
+![Architecture](./assets/Screenshot%202023-10-29%20at%205.29.31%20AM.png)
+
 ## Overview
 
 Quantum Oracles aims to revolutionize the landscape of quantum computing by decentralizing quantum computations and reducing the trust needed for executing quantum programs. Our project allows smart contracts to execute quantum programs, stores the results on-chain, and aggregates the results from multiple quantum computers. Users can pay for their quantum jobs using cryptocurrency, effectively creating an end-to-end decentralized ecosystem for quantum computing.
@@ -52,6 +54,19 @@ yarn start
 - **Submit Circuit**: Users can submit a new quantum circuit, which is then sent to the oracles and then they send the circuits to quantum computers for execution. 
 
 - **Fetch Results**: Once executed, the results are stored on-chain and can be fetched by users and also they can be used by other smart contracts for conditional execution of logic.
+
+## Demo Images
+
+![Image 1](./assets/Screenshot%202023-10-29%20at%205.26.04%20AM.png)
+
+![Image 2](./assets/Screenshot%202023-10-29%20at%205.26.14%20AM.png)
+
+![Image 3](./assets/Screenshot%202023-10-29%20at%205.26.29%20AM.png)
+
+![Image 4](./assets/Screenshot%202023-10-29%20at%205.26.38%20AM.png)
+
+![Image 5](./assets/Screenshot%202023-10-29%20at%205.26.52%20AM.png)
+
 
 ## Contributing
 
