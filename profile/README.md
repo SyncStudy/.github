@@ -1,8 +1,6 @@
 # Quantum Oracles: Decentralized Quantum Computing on Blockchain
 
-![Architecture](/assets/Screenshot%202023-10-29%20at%205.29.31%20AM.png)
-
-[Architecture and Data Flow Diagram](https://miro.com/app/board/uXjVNVN3tMU=/?share_link_id=58900692180)
+![Quantum Oracles](/assets/Quantum%Oracle.004.jpeg)
 
 ## Overview
 
@@ -29,9 +27,17 @@ Quantum Oracles aims to revolutionize the landscape of quantum computing by dece
   
 - **API3**: For deploying an Airnode to call our quantum API and using the dAPI price feed for calculating the cost in cryptocurrency for running the quantum computation (implementation in the `QuantumOracleV2` smart contract)
 
+![Tech Stack](/assets/Quantum%Oracle.007.jpeg)
+
 ## Smart Contract: QuantumOracleV1
 
 The heart of the project lies in the `QuantumOracleV1` smart contract, which is responsible for handling oracle management, circuit creation, and result aggregation.
+
+## Architecture
+
+![Architecture](/assets/Screenshot%202023-10-29%20at%205.29.31%20AM.png)
+
+[Architecture and Data Flow Diagram](https://miro.com/app/board/uXjVNVN3tMU=/?share_link_id=58900692180)
 
 ## Installation
 
