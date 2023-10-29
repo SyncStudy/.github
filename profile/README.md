@@ -67,6 +67,14 @@ yarn start
 
 - **Fetch Results**: Once executed, the results are stored on-chain and can be fetched by users and they can also be used by other smart contracts for conditional execution of logic.
 
+## Presentation
+
+[Presentation](https://drive.google.com/file/d/1TNPmTxgxp392AZsWf6IUssMvUizbcmGl/view?usp=sharing)
+
+## Demo Video
+
+[Demo Video](https://drive.google.com/file/d/1kaiuzncWzJxwNzYfSOGtO6jRF5CNbnlT/view?usp=sharing)
+
 ## Demo Images
 
 ![Image 1](/assets/Screenshot%202023-10-29%20at%205.26.04%20AM.png)
@@ -78,14 +86,6 @@ yarn start
 ![Image 4](/assets/Screenshot%202023-10-29%20at%205.26.38%20AM.png)
 
 ![Image 5](/assets/Screenshot%202023-10-29%20at%205.26.52%20AM.png)
-
-## Presentation
-
-[Presentation](https://drive.google.com/file/d/1TNPmTxgxp392AZsWf6IUssMvUizbcmGl/view?usp=sharing)
-
-## Demo Video
-
-[Demo Video](https://drive.google.com/file/d/1kaiuzncWzJxwNzYfSOGtO6jRF5CNbnlT/view?usp=sharing)
 
 ## Contributing
 
