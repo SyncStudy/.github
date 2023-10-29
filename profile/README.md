@@ -81,7 +81,7 @@ yarn start
 
 ## Demo Images
 
-![Image 1](/assets/Screenshot%202023-10-29%20at%205.26.04%20AM.png)
+![Image 1](/q_oracle_homepage.jpg)
 
 ![Image 2](/assets/Screenshot%202023-10-29%20at%205.26.14%20AM.png)
 
