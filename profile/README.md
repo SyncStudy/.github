@@ -50,6 +50,7 @@ The heart of the project lies in the `QuantumOracleV1` smart contract, which is 
 ## Demo Video
 
 [Overview Demo Video](https://drive.google.com/file/d/1kaiuzncWzJxwNzYfSOGtO6jRF5CNbnlT/view?usp=sharing)
+
 [API3 Demo Video](https://bit.ly/quantum-oracles-video-api3)
 
 ## Installation
